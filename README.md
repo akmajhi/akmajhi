@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh Kumar Majhi
 - 👀 I’m interested in Human Psychology and their behaviour
-- 🌱 I’m currently learning Data Analystics
+- 🌱 I’m into Data Analystics
 - 📫 How to reach me https://www.linkedin.com/in/adarshkmajhi/
 
 <!---
